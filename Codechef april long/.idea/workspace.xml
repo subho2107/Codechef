@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbe5c5ab-0e23-45a1-a0af-a6a008625b3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/covid pandemic and long queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sell all the cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sn2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sn3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squared subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strange numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit gcd 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit gcd 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit gcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fluent Python/Data Structures/bisectFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Dynamic Programming/The coin change problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Candies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Cloudy Day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Cloudy day optimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Goodland electricity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Greedy Florist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Grid Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Largest Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Luck Balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Marc's Cakewalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Max Min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Minimum absolute diff in array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Greedy/Sherlock and the beast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/Contacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/FindName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/KaratsubaMultiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/MultiplyByString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/NoPrefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/PeriodicSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/arrcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/chehckPassByreference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/goodseries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/popTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/runningMedian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/scratch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/RandomProblems/zeroTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Recursion/Chess Engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Recursion/Crossword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Recursion/Password cracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Recursion/RecursiveDigitSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Recursion/StoneDivisionRevisited.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Recursion/ThePowerSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/BigNumSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/CountingSort1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/HeapSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/QuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/QuickSort2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/RunningTimeQuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/arrCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/checkSubstringArr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/closestNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/findTheMedian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/fraudlentActivity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/fullCountingSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/heap_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/heapsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/lilyHomeWork2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/lilyHomeWork3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRank/Sorting/lilyHomework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.vscode/.ropeproject/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.vscode/.ropeproject/objectdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 1/Best time to buy and sell stock 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 1/Counting elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 1/Group anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 1/Happy number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 1/Move zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 1/Single number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 1/maximum subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 2/backspace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 2/middle of the linked list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/30 day leetcode challenge/Week 2/min stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/Climbing Stairs/Climbing Stairs 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/Climbing Stairs/Climbing Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/House robber/House robber optimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/House robber/House robber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/Is Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/Maximum subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/Range Sum Query - Immutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/decode ways.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/longest substring palindrome/long sub pal 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/longest substring palindrome/longest palindromic substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/longest substring palindrome/longest sub pal opt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/longest valid parantheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Dynamic programming/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Easy Problems/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Easy Problems/twoSum/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/Bulb Switcher/BulbSwitcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/Bulb Switcher/bulbSwitcherTLE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/Bulb Switcher/bulbSwitcherUsingSieveOfEratos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/testSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/threeSum/3SumBestSolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/threeSum/3SumUsinghashMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/threeSum/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/threeSum/threeSumOptmized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/Useful programs learnt/noOfFactors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NarasimhaKarumanchi/toerOfHanoi3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NarasimhaKarumanchi/towerOfHanoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NarasimhaKarumanchi/towerOfHanoi2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diffOfTwoLargeNums" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/Easy Problems/TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/Easy Problems/twoSum/TwoSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/Easy Problems/twoSumO(n)Hashmap1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/Easy Problems/twoSum/twoSumO(n)Hashmap1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/Easy Problems/twoSumO(n^2).py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/Easy Problems/twoSum/twoSumO(n^2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/Medium problems/threeSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/threeSum/threeSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/Medium problems/threeSumGFG.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/Medium problems/threeSum/threeSumGFG.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1aCMmBQawEQcLOQrA4cjuVQtlhC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="consents" />
+  </component>
+  <component name="RunManager" selected="Python.squared subsequence">
+    <configuration name="Strange numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Codechef april long" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strange numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="factor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Codechef april long" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sn2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Codechef april long" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sn2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="squared subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Codechef april long" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/squared subsequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Codechef april long" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.squared subsequence" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.factor" />
+        <item itemvalue="Python.sn2" />
+        <item itemvalue="Python.Strange numbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbe5c5ab-0e23-45a1-a0af-a6a008625b3b" name="Default Changelist" comment="" />
+      <created>1586235278177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586235278177</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1586237539946">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="323" y="27" width="777" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1586237539946" />
+    <state width="1276" height="180" key="GridCell.Tab.0.bottom" timestamp="1586677666081">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="180" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586677666081" />
+    <state width="1276" height="180" key="GridCell.Tab.0.center" timestamp="1586677666081">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="180" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586677666081" />
+    <state width="1276" height="180" key="GridCell.Tab.0.left" timestamp="1586677666080">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="180" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586677666080" />
+    <state width="1276" height="180" key="GridCell.Tab.0.right" timestamp="1586677666081">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="180" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586677666081" />
+    <state width="1276" height="219" key="GridCell.Tab.1.bottom" timestamp="1586670217969">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586670217969" />
+    <state width="1276" height="219" key="GridCell.Tab.1.center" timestamp="1586670217968">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1586670217968" />
+    <state width="1276" height="219" key="GridCell.Tab.1.left" timestamp="1586670217968">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1586670217968" />
+    <state width="1276" height="219" key="GridCell.Tab.1.right" timestamp="1586670217968">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1586670217968" />
+    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586237551864">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1586237551864" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586279235850">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1586279235850" />
+  </component>
+</project>
