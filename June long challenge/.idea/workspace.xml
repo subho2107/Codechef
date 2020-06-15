@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c557497e-e55a-40f0-9f62-35fe67100606" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.." afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coderash/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coderash/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coderash/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coderash/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coderash/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Coderash/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CodeVita/Board game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codeforces/Codeforces" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 2/GCD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 2/fibbonacci again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 2/fibbonacci sum of square last number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 2/fibbonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 2/last digit of fibonacci number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 2/last digit of sum of fibbonacci again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 2/last digit of sum of fibbonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 2/lcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 3/cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 3/change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 3/knapsack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 3/slaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 4/binarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 4/majority.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 4/sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 5/Primitive calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 5/change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 5/edit distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 6/gold bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week 6/parantheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week1/add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Algorithm toolbox/Week1/pairwise multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Graph/Week 1/connected components.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Graph/Week 1/connectivity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Graph/Week 2/hasCycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS Algo spec. San diego/Graph/Week 2/topologicalSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fluent Python/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fluent Python/Data Structures/bisectFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Fluent Python/Data Structures/numsci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Foobar/Level 2/Version sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Foobar/Level 2/lamb distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Foobar/Level 3/Bomb baby.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Foobar/Level 3/Fuel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Foobar/Level 3/Staircase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerEarth/Graph/graph reprsentation/edge existence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerEarth/May circuit/Avoiding visited network paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerEarth/May circuit/Factorial equations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerEarth/May circuit/No of cycles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerEarth/May circuit/Number of divisors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerEarth/May circuit/OR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerEarth/May circuit/avoid visit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerEarth/May circuit/factorialEqns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerEarth/May circuit/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Dynamic Programming/The coin change problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Candies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Cloudy Day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Cloudy day optimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Goodland electricity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Greedy Florist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Grid Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Largest Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Luck Balance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Marc's Cakewalk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Max Min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Minimum absolute diff in array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Greedy/Sherlock and the beast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/Contacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/FindName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/KaratsubaMultiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/MultiplyByString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/NoPrefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/PeriodicSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/arrcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/chehckPassByreference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/goodseries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/popTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/runningMedian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/scratch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/RandomProblems/zeroTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Recursion/Chess Engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Recursion/Crossword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Recursion/Password cracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Recursion/RecursiveDigitSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Recursion/StoneDivisionRevisited.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Recursion/ThePowerSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/BigNumSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/CountingSort1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/HeapSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/QuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/QuickSort2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/RunningTimeQuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/arrCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/checkSubstringArr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/closestNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/findTheMedian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/fraudlentActivity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/fullCountingSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/heap_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/heapsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/lilyHomeWork2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/lilyHomeWork3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HackerRank/Sorting/lilyHomework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LeetCode/.vscode/.ropeproject/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LeetCode/.vscode/.ropeproject/objectdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LeetCode/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LeetCode/Leetcode-problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NarasimhaKarumanchi/toerOfHanoi3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NarasimhaKarumanchi/towerOfHanoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../NarasimhaKarumanchi/towerOfHanoi2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../diffOfTwoLargeNums" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tester/copy_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../tester/test_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodeChefFeb/LongContestCookOff.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fluent Python/Data Structures/assignmentPuzzler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fluent Python/Data Structures/assignmentPuzzler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Easy Problems/TwoSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Easy Problems/twoSumO(n)Hashmap1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Easy Problems/twoSumO(n^2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Medium problems/threeSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/Medium problems/threeSumGFG.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1cuvJ5YaI3oin5vWEGlb017ls8H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c557497e-e55a-40f0-9f62-35fe67100606" name="Default Changelist" comment="" />
+      <created>1591391217649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591391217649</updated>
+      <workItem from="1591391220256" duration="1427000" />
+      <workItem from="1591393747620" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591392602546">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.676@0.27.1366.676" timestamp="1591392602546" />
+    <state x="415" y="151" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591392483563">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="415" y="151" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.676@0.27.1366.676" timestamp="1591392483563" />
+    <state x="515" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591391275891">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="515" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1366.676@0.27.1366.676" timestamp="1591391275891" />
+    <state x="416" y="114" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591393954391">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="416" y="114" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.676@0.27.1366.676" timestamp="1591393954391" />
+    <state x="529" y="219" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591394076729">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="529" y="219" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.676@0.27.1366.676" timestamp="1591394076729" />
+  </component>
+</project>
