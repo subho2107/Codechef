@@ -2,28 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class BinaryConcatenation {
-    static long[] pow2 = new long[61];
-
-    public static long toDecimal(String a) {
-        long val = 0;
-        for (int pos = 0; pos < a.length(); pos++) {
-            char bit = a.charAt(pos);
-            if (bit == '1')
-                val += pow2[a.length() - pos - 1];
-        }
-        return val;
-    }
-
-    public static long binaryStringConcat(long a, long b) {
-        String aB = Long.toBinaryString(a);
-        String bB = Long.toBinaryString(b);
-        String abB = aB + bB;
-        String baB = bB + aB;
-        long temp = toDecimal(abB);
-        long temp2 = toDecimal(baB);
-        return Math.max(temp, temp2) - Math.min(temp, temp2);
-    }
-
+    static long[] pow2 = new long[31];
     public static void main(String[] args) throws Exception {
         pow2[0] = 1;
         for (int pos = 1; pos < pow2.length; pos++) {
@@ -35,18 +14,29 @@ public class BinaryConcatenation {
         while (t-- > 0) {
             int n = Integer.parseInt(bu.readLine());
             String[] inp = bu.readLine().split(" ");
-            long[] arr = new long[n];
-            for (int pos = 0; pos < n; pos++) {
-                arr[pos] = Long.parseLong(inp[pos]);
+            ArrayList[] arr = new ArrayList[31];
+            for (int pos = 0; pos < arr.length; pos++) {
+                arr[pos] = new ArrayList<Long>();
             }
-            long maxVal = binaryStringConcat(arr[0], arr[1]);
-            for (int i = 0; i < n; i++) {
-                for (int j = i + 1; j < n; j++) {
-                    long val = binaryStringConcat(arr[i], arr[j]);
-                    maxVal = Math.max(maxVal, val);
+            for (int pos = 0; pos < n; pos++) {
+                long num = Integer.parseInt(inp[pos]);
+                arr[(int) (Math.log(num)/Math.log(2))].add(num);
+            }
+            for (int pos = 0; pos < 31; pos++) {
+                Collections.sort(arr[pos]);
+            }
+            long maxVal = 0;
+            for (int pos = 0; pos < 31; pos++) {
+                for (int pos2 = 0; pos2 < 31; pos2++) {
+                    boolean check = pos==pos2 && arr[pos].size() < 2;
+                    boolean check2 = arr[pos].size() == 0 || arr[pos2].size()==0;
+                    if (check||check2)continue;
+                    long valA = pow2[pos2+1]-1, valB = pow2[pos+1]-1;
+                    long val1 = (long) arr[pos].get(arr[pos].size()-1), val2 = (long) arr[pos2].get(0);
+                    maxVal = Math.max(maxVal, valA*val1-valB*val2);
                 }
             }
-            sb.append(maxVal + "\n");
+            sb.append(maxVal+"\n");
         }
         System.out.print(sb);
     }
