@@ -5,10 +5,10 @@ from io import BytesIO, IOBase
 def solve():
     n = int(input())
     A = list(input())
-    B = list(input())
+    MaximumCandies = list(input())
     result = []
     for pos in range(n):
-        if A[pos] < B[pos]:
+        if A[pos] < MaximumCandies[pos]:
             print(-1)
             return
     for ascii in range(ord('z'), ord('a') - 1, -1):
@@ -16,7 +16,7 @@ def solve():
         posList = []
         check = False
         for pos in range(n):
-            if character == B[pos] and A[pos] != B[pos]:
+            if character == MaximumCandies[pos] and A[pos] != MaximumCandies[pos]:
                 posList.append(pos)
         if posList:
             for pos in range(n):

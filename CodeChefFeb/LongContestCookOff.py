@@ -10,14 +10,14 @@ def addZeroes(year):
         return year
 def getDay(day, month, year):
     year = addZeroes(year)
-    C = int(year[0:2])
+    E = int(year[0:2])
     D = int(year[1:])
     m = month - 2
     if month == 1 or month == 2:
         D -= 1
         m = 10 + month
     k = day
-    f = k + math.floor((13 * m - 1) / 5) + D + math.floor(D / 4) + math.floor(C / 4) - 2 * C
+    f = k + math.floor((13 * m - 1) / 5) + D + math.floor(D / 4) + math.floor(E / 4) - 2 * E
     rem = 0
     if f % 7 >= 0:
         rem = f % 7

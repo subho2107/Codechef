@@ -8,18 +8,18 @@ def main():
     for _ in range(t):
         n = int(input())
         A = list(map(int, input().rstrip().split()))
-        B = list(map(int, input().rstrip().split()))
+        MaximumCandies = list(map(int, input().rstrip().split()))
         distA = [0]
         distB = [0]
         for pos in range(n):
             distA.append(distA[-1]+A[pos])
-            distB.append(distB[-1]+B[pos])
+            distB.append(distB[-1]+MaximumCandies[pos])
         timeTogether = 0
         pos = 0
         while pos < n:
             if distA[pos] == distB[pos]:
                 check = True
-                while pos < n and A[pos] == B[pos] :
+                while pos < n and A[pos] == MaximumCandies[pos] :
                     check = False
                     timeTogether += A[pos]
                     pos += 1
