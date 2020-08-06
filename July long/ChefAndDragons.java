@@ -12,8 +12,6 @@ class FenwickTrees {
     }
 
     void dfs(Mountain node, int[][] timeStamps) {
-//        this.bit[timeStamps[0][node.index]] += node.taste;
-//        this.bit[timeStamps[1][node.index]+1] -= node.taste;
         this.rangeAdd(timeStamps[0][node.index], timeStamps[1][node.index], node.taste);
         for (Mountain child :
                 node.children) {
@@ -22,7 +20,6 @@ class FenwickTrees {
     }
 
     void add(int pos, long val) {
-//        for (; pos < this.n; pos ++)
         for (; pos < this.n; pos += pos & -pos)
             this.bit[pos] += val;
     }
@@ -30,14 +27,11 @@ class FenwickTrees {
     void rangeAdd(int left, int right, long val) {
         add(left, val);
         add(right + 1, -val);
-//        this.bit[left] += val;
-//        this.bit[right+1] -= val;
     }
 
     long getSumFromRootToNode(int pos, int[][] timeStamps) {
         long result = 0;
         pos = timeStamps[0][pos];
-//        for (; pos > 0; pos -= pos & -pos)
         for (; pos > 0; pos -= pos & -pos)
             result += bit[pos];
         return result;
@@ -158,7 +152,7 @@ class ChefAndDragons {
         }
     }
 
-    public static void buildTrees(ArrayList<Mountain> forest,  long[] heights, long[] tastes, int order) {
+    public static void buildTrees(ArrayList<Mountain> forest, long[] heights, long[] tastes, int order) {
         int n = heights.length;
         Mountain temp = new Mountain(n - 1, heights[n - 1], tastes[n - 1]), currParent = temp;
         forest.add(temp);
@@ -193,16 +187,16 @@ class ChefAndDragons {
         return true;
     }
 
-    static long getSum(int start, int end,  FenwickTrees[] fenwickTreesL, FenwickTrees[] fenwickTreesR, ArrayList<Mountain> forestL, ArrayList<Mountain> forestR, int[][] timeStampsL, int[][] timeStampsR) {
+    static long getSum(int start, int end, FenwickTrees[] fenwickTreesL, FenwickTrees[] fenwickTreesR, ArrayList<Mountain> forestL, ArrayList<Mountain> forestR, int[][] timeStampsL, int[][] timeStampsR) {
         if (start < end) {
             int pos = findInWhichTree(end, forestL, "left");
-            if (pos != findInWhichTree(start, forestL, "left"))return -1;
+            if (pos != findInWhichTree(start, forestL, "left")) return -1;
             if (isNotAncestor(end, start, timeStampsL)) return -1;
             FenwickTrees tree = fenwickTreesL[pos];
             return tree.getSumFromRootToNode(end, timeStampsL) - tree.getSumFromRootToNode(start, timeStampsL);
         } else {
             int pos = findInWhichTree(end, forestR, "right");
-            if (pos != findInWhichTree(start, forestR, "right"))return -1;
+            if (pos != findInWhichTree(start, forestR, "right")) return -1;
             if (isNotAncestor(end, start, timeStampsR)) return -1;
             FenwickTrees tree = fenwickTreesR[pos];
             return tree.getSumFromRootToNode(end, timeStampsR) - tree.getSumFromRootToNode(start, timeStampsR);
@@ -238,46 +232,23 @@ class ChefAndDragons {
         buildFenwickTrees(forestFromLeft, forLeft, timeStampsForLeft);
         buildFenwickTrees(forestFromRight, forRight, timeStampsForRight);
         //Pre-computation ends
-//        System.out.println(Arrays.toString(parentArrLeft));
-//        System.out.println(Arrays.toString(parentArrRight));
-//        System.out.println(forestFromRight.get(0).index);
-//        for (Mountain node :
-//                forestFromRight.get(0).children) {
-//            System.out.print(node.index+" ");
-//        }
-//        System.out.println("");
-//        System.out.println(forestFromRight.get(0).children.get(1).children.get(0).index);
-//        System.out.print(Arrays.toString(timeStampsForLeft[0])+" ");
-//        System.out.println(Arrays.toString(timeStampsForLeft[1]));
-//        System.out.print(Arrays.toString(timeStampsForRight[0])+" ");
-//        System.out.println(Arrays.toString(timeStampsForRight[1]));
         for (int query = 0; query < q; query++) {
             inp = buffer.readLine().split(" ");
             int queryType = Integer.parseInt(inp[0]);
             if (queryType == 1) {
                 int pos = Integer.parseInt(inp[1]);
                 long val = Integer.parseInt(inp[2]);
-                update(pos - 1, val-tastes[pos-1], forestFromLeft, forestFromRight, forLeft, forRight, timeStampsForLeft, timeStampsForRight);
-                tastes[pos-1] = val;
+                update(pos - 1, val - tastes[pos - 1], forestFromLeft, forestFromRight, forLeft, forRight, timeStampsForLeft, timeStampsForRight);
+                tastes[pos - 1] = val;
 
             } else {
                 int start = Integer.parseInt(inp[1]) - 1, end = Integer.parseInt(inp[2]) - 1;
-                long sum =  start == end ? tastes[start] : (heights[end] >= heights[start] ? -1 :getSum(start, end, forLeft, forRight, forestFromLeft, forestFromRight, timeStampsForLeft, timeStampsForRight));
-                if (sum!=-1 && start!=end)sum += tastes[start];
+                long sum = start == end ? tastes[start] : (heights[end] >= heights[start] ? -1 : getSum(start, end, forLeft, forRight, forestFromLeft, forestFromRight, timeStampsForLeft, timeStampsForRight));
+                if (sum != -1 && start != end) sum += tastes[start];
                 sb.append(sum).append("\n");
-//                System.out.println(sum);
             }
         }
         System.out.println(sb);
     }
 
 }
-/**
- * 5 4
- * 3 1 4 1 5
- * 1 2 4 8 16
- * 2 5 2
- * 1 3 5
- * 2 3 4
- * 2 1 4
- */
