@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class A
+class chefina
 {
 	static class Hashing
 	{
