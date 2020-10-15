@@ -12,8 +12,6 @@ class FenwickTrees {
     }
 
     void dfs(Mountain node, int[][] timeStamps) {
-//        this.bit[timeStamps[0][node.index]] += node.taste;
-//        this.bit[timeStamps[1][node.index]+1] -= node.taste;
         this.rangeAdd(timeStamps[0][node.index], timeStamps[1][node.index], node.taste);
         for (Mountain child :
                 node.children) {
@@ -22,7 +20,6 @@ class FenwickTrees {
     }
 
     void add(int pos, long val) {
-//        for (; pos < this.n; pos ++)
         for (; pos < this.n; pos += pos & -pos)
             this.bit[pos] += val;
     }
@@ -30,14 +27,11 @@ class FenwickTrees {
     void rangeAdd(int left, int right, long val) {
         add(left, val);
         add(right + 1, -val);
-//        this.bit[left] += val;
-//        this.bit[right+1] -= val;
     }
 
     long getSumFromRootToNode(int pos, int[][] timeStamps) {
         long result = 0;
         pos = timeStamps[0][pos];
-//        for (; pos > 0; pos -= pos & -pos)
         for (; pos > 0; pos -= pos & -pos)
             result += bit[pos];
         return result;
